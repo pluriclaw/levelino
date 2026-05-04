@@ -9,7 +9,7 @@ _Ein ausdruckbares deutsches Vokabelübungsblatt für Kinder (3–9 Jahre). Entw
 **Zweck:** Vokabeln aus LEVELINO durch Offline-Übungen verstärken
 **Format:** DIN A4, druckfreundlich
 **Abschnitte pro Blatt:** 3 Aktivitäten + 1 Belohnungsbereich
-**Sprache:** Deutsche Wörter mit englischen Kontexthinweisen
+**Sprache:** Deutsche Wörter mit deutschen Anweisungen
 
 ---
 
