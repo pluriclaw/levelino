@@ -4,6 +4,16 @@ _A printable German vocabulary exercise sheet template for children (ages 3–9)
 
 ---
 
+## 🌐 Available Languages
+
+| Sheet | Language | File |
+|-------|----------|------|
+| English | Instructions in English, German vocab | `activity-sheet.md` |
+| Deutsch | Instructions in German, German vocab | `activity-sheet-deutsch.md` |
+| Italiano | Instructions in Italian, German vocab | `activity-sheet-italiano.md` |
+
+---
+
 ## 📋 Overview
 
 **Purpose:** Reinforce vocabulary learned in LEVELINO through offline practice  
@@ -84,6 +94,235 @@ _A printable German vocabulary exercise sheet template for children (ages 3–9)
 
 ---
 
+---
+
+## 📚 Activity 4: Vocabulary — 10 Themes from LEVELINO
+
+_German vocabulary exercises for each topic. Match, fill in, and learn!_
+
+---
+
+### 🎨 Theme 1: Colors & Numbers (Farben & Zahlen)
+
+**Age:** 3–6
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Color and learn the numbers:                                │
+│                                                              │
+│   🔴🔴🔴🔴🔴        →   ____  (fünf = five)                │
+│   🔵🔵🔵            →   ____  (drei = three)                │
+│   🟢🟢🟢🟢           →   ____  (vier = four)                │
+│   🟡🟡🟡🟡🟡🟡          →   ____  (sechs = six)             │
+│                                                              │
+│  Colors: rot = red, blau = blue, grün = green                │
+│          gelb = yellow, weiß = white, schwarz = black        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🐾 Theme 2: Animals & Nature (Tiere & Natur)
+
+**Age:** 3–7
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Connect the animal to the German word:                      │
+│                                                              │
+│     🐕           🐱           🐦           🐟              │
+│   H__D        K___E        V__G_L       F__S_H             │
+│   (dog)       (cat)        (bird)       (fish)            │
+│                                                              │
+│     🐴           🐄           🐑           🐷              │
+│   P__RDE       K__H        S_H__F       S_H__E_IN         │
+│   (horse)     (cow)        (sheep)      (pig)             │
+│                                                              │
+│  Extra: der Hund = the dog, die Katze = the cat             │
+│         der Vogel = the bird, der Fisch = the fish          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 👨‍👩‍👧 Theme 3: Family Members (Familienmitglieder)
+
+**Age:** 3–7
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Learn family words:                                          │
+│                                                              │
+│      👦              👧              👶                      │
+│    der SOHN         die TOCHTER     das KIND                 │
+│    (the son)        (the daughter) (the child)              │
+│                                                              │
+│      👨              👩              👴                      │
+│   der VATER        die MUTTER     die GROSSMUTTER           │
+│   (the father)     (the mother)   (the grandmother)        │
+│                                                              │
+│  Extra: die Familie = the family, die Eltern = the parents  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🍎 Theme 4: Food & Drinks (Essen & Trinken)
+
+**Age:** 4–8
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  What is it? Fill in the missing vowel:                      │
+│                                                              │
+│   🍎 A___L        (der Apfel = the apple)                   │
+│   🥛 M___CH       (die Milch = the milk)                    │
+│   🍞 B___T         (das Brot = the bread)                   │
+│   🧀 K___SE        (der Käse = the cheese)                  │
+│   🍖 F___ISCH      (das Fleisch = the meat)                 │
+│   🥕 K___RIS      (die Karotte = the carrot)                │
+│                                                              │
+│  Extra: das Wasser = water, der Saft = juice, die Suppe= soup│
+│         der Tee = tea, das Essen = food                      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🌤️ Theme 5: Weather & Seasons (Wetter & Jahreszeiten)
+
+**Age:** 4–8
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Connect the weather to the German word:                      │
+│                                                              │
+│      ☀️           🌧️           ❄️           ⛈️            │
+│   der S__NNE     der R__GEN    der S__nee      der S__R__M   │
+│   (the sun)      (the rain)    (the snow)     (the storm)   │
+│                                                              │
+│  Seasons:                                                      │
+│   🌸 Frühling (spring)  ☀️ Sommer (summer)                  │
+│   🍂 Herbst (autumn)     ❄️ Winter (winter)                  │
+│                                                              │
+│  Extra: warm = warm, kalt = cold, windig = windy            │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🏠 Theme 6: Places Around Town (Orte in der Stadt)
+
+**Age:** 4–8
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Where do you go? Match:                                      │
+│                                                              │
+│     🏥            🏫           ⛪           🏪              │
+│   das KR__NKEN-  die S__ULE   die K__RCH__   der L__EN      │
+│   HAUS (hospital)(school)     (church)     (market)        │
+│                                                              │
+│     🏠            🚉           🏦           🏥              │
+│   das H__S       der B__HOF  die B__K      die AP__THEKE   │
+│   (house)        (station)   (bank)        (pharmacy)       │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📅 Theme 7: Days of the Week (Wochentage)
+
+**Age:** 4–7
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Order the days of the week!                                  │
+│                                                              │
+│  Monday     = __________________                             │
+│  Tuesday    = __________________                             │
+│  Wednesday  = __________________                             │
+│  Thursday   = __________________                             │
+│  Friday     = __________________                             │
+│  Saturday   = __________________                             │
+│  Sunday     = __________________                             │
+│                                                              │
+│  In German:                                                   │
+│  Montag, Dienstag, Mittwoch, Donnerstag, Freitag,           │
+│  Samstag, Sonntag                                            │
+│                                                              │
+│  Extra: heute = today, morgen = tomorrow, gestern = yesterday│
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎉 Theme 8: Greetings & Introductions (Begrüßungen)
+
+**Age:** 3–6
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  How do you say it in German?                                  │
+│                                                              │
+│  Hello!            →  __________________                     │
+│  Good morning!     →  __________________                     │
+│  Goodbye!          →  __________________                     │
+│  How are you?      →  __________________                     │
+│  My name is...     →  __________________                     │
+│  Nice to meet you! →  __________________                     │
+│                                                              │
+│  Extra: Guten Tag! = Good day!, Tschüss! = Bye!             │
+│         Danke! = Thank you!, Bitte = Please/You're welcome  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 👕 Theme 9: Clothing (Kleidung)
+
+**Age:** 4–8
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  What are you wearing? Complete the words:                    │
+│                                                              │
+│   👕 das H__MAIL         (the T-shirt)                      │
+│   👖 die H__SE           (the pants)                        │
+│   🧢 die M__TZE          (the cap)                          │
+│   🧦 die S__MPFE          (the socks)                        │
+│   👟 die S_CH__E         (the shoes)                        │
+│   🧥 der R__KEN           (the jacket)                       │
+│                                                              │
+│  Extra: die Jacke = the jacket, das Kleid = the dress       │
+│         der Hut = the hat, die Schuhe = the shoes          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🛒 Theme 10: Shopping & Money (Einkaufen & Geld)
+
+**Age:** 5–9
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  How much does it cost? Learn bigger numbers:                │
+│                                                              │
+│  10  = z__hn          50  = f__nzig                         │
+│  20  = zw__nzig       100 = h__ndert                         │
+│  30  = dr__ßig        €1   = ein E__ro                       │
+│  40  = v__rzig        €2   = zw__ E__ro                      │
+│                                                              │
+│  At the shop:                                                  │
+│   der Laden = the shop, kaufen = to buy                      │
+│   bezahlen = to pay                                          │
+│   Wie viel kostet das? = How much does it cost?             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## ⭐ Reward Section
 
 ```
@@ -96,7 +335,7 @@ _A printable German vocabulary exercise sheet template for children (ages 3–9)
 │   │        │  │        │  │        │  │        │          │
 │   └────────┘  └────────┘  └────────┘  └────────┘          │
 │     ⬜          ⬜          ⬜          ⬜                    │
-│   (Farbe)    (Farbe)    (Farbe)    (Farbe)                │
+│   (Color)    (Color)     (Color)    (Color)                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
