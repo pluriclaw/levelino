@@ -1,19 +1,25 @@
 # LEVELINO — Newsletter Introduction
 
-**Subject:** Say goodbye to "I'll learn a language someday"
+**Subject line:** The language app that doesn't feel like homework
+
+**Preview text:** Turns out you can actually enjoy learning German.
+
+---
 
 Hey there,
 
-You probably have a language learning app on your phone right now. Maybe you opened it once this week. Maybe it was three weeks ago.
+You tried Duolingo. Maybe you stuck with it for a week, maybe two. But somewhere between the broken streaks and the owl demanding you maintain your habit, it stopped being fun — and started feeling like that thing you *should* do.
 
-We built LEVELINO because we kept asking the same question: why do the best language learning tools feel like homework — and why do the fun ones not actually teach anything?
+We built LEVELINO because we kept asking the same question: **why do the best language learning tools feel like homework — and why do the fun ones not actually teach anything?**
 
-LEVELINO is the game that makes vocabulary and grammar stick. Every level is a small adventure: a restaurant scene, a travel dialogue, a grammar challenge disguised as a puzzle. You earn stars, unlock content, and level up your skills — literally.
+LEVELINO is a mobile game that makes German vocabulary and grammar stick. Every level is a small adventure — a restaurant scene, a travel dialogue, a grammar puzzle. You earn stars, unlock content, and level up your skills. The sessions are 8–25 minutes, designed to fit a commute or coffee break. And the adaptive difficulty keeps you in that sweet spot: challenged enough to stay engaged, not overwhelmed enough to quit.
 
-15 days of gameplay. 30 themed levels. A progress tracker you can actually be proud of.
+**30 themed levels. 15 days of gameplay.** From greetings to past tense to idioms — by the end, you'll have real conversations.
 
 **[Get LEVELINO — iOS & Android]**
 
-Here's to the day you stop "trying to learn a language" and start actually doing it.
+One more thing: it's actually a game. Not "gamified learning." Not points and badges pretending to be progress. An actual game that makes you want to do one more round.
+
+Give it 15 days. We think you'll be glad you did.
 
 — The LEVELINO Team

@@ -285,19 +285,37 @@ _German vocabulary exercises for each topic. Match, fill in, and learn!_
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  What are you wearing? Complete the words:                    │
+│  Was trägst du? – What are you wearing?                      │
 │                                                              │
-│   👕 das H__MAIL         (the T-shirt)                      │
-│   👖 die H__SE           (the pants)                        │
-│   🧢 die M__TZE          (the cap)                          │
-│   🧦 die S__MPFE          (the socks)                        │
-│   👟 die S_CH__E         (the shoes)                        │
-│   🧥 der R__KEN           (the jacket)                       │
+│  👕 das T-SHIRT              🧢 die MÜTZE                   │
+│     T- _____                   M_____ ZE                     │
 │                                                              │
-│  Extra: die Jacke = the jacket, das Kleid = the dress       │
-│         der Hut = the hat, die Schuhe = the shoes          │
+│  👖 die HOSE                🧦 die SOCKEN                    │
+│     H__ SE                     SO_____ EN                     │
+│                                                              │
+│  👟 die SCHUHE               🧥 die JACKET                   │
+│     S _____ E                  J_____ KE                      │
+│                                                              │
+│  Ordne zu! (Match the word to the picture)                  │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+**Word list:** T-Shirt, Hose, Schuhe, Jacke, Mütze, Socken, Kleid, Rock, Handschuhe, Schal, Stiefel
+
+| English | German | Article |
+|---------|--------|---------|
+| T-shirt | T-Shirt | das |
+| Pants | Hose | die |
+| Shoes | Schuhe | die |
+| Jacket | Jacke | die |
+| Cap | Mütze | die |
+| Socks | Socken | die |
+| Dress | Kleid | das |
+| Scarf | Schal | der |
+| Gloves | Handschuhe | die |
+
+**Extra:** anziehen = to put on, ausziehen = to take off
+     tragen = to wear, die Kleidung = the clothing
 
 ---
 
